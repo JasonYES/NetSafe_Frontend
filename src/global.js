@@ -1,0 +1,7 @@
+// global.folder = '/home/hitnslab/www/files/'
+// global.folder = '/home/hitnslab/www/files/'
+// global.folder = '/static/'
+global.folder = '/files/'
+// global.api = 'http://192.168.138.128:8000'
+// global.api = 'http://222.194.15.246:8000'
+// global.folder = 'file:///C|/Users/Jason/Desktop'
