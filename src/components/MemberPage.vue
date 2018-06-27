@@ -32,51 +32,6 @@
 
 
 
-		<Row type="flex" class="vertical" justify="center" style="margin-top:20px">
-			<Col span="4" class="vertical" >
-				<img src="../assets/safe.jpg" width='180'>
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/gkd.jpg" >
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/LOGO.jpg" style="margin-top:30px" width="170">
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/中国移动1.jpg">
-			</Col>
-		</Row>
-
-		<Row type="flex" justify="center" style="margin-top:50px">
-			<Col span="4"  class="vertical">
-				<img src="../assets/hit.png" >
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/清华大学.png" style="margin-top:20px">
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/by.jpg" width="120">
-			</Col>
-			<Col span="4" class="vertical">
-				<img src="../assets/腾讯计算机.png" style="margin-top:30px" width="200">
-			</Col>
-		</Row>
-
-		<Row type="flex" justify="center" style="margin-top:50px">
-		<Col span="4"  class="vertical">
-			<img src="../assets/知道创宇.png" style="margin-top:30px">
-		</Col>
-		<Col span="4" class="vertical">
-			<img src="../assets/安天科技.png" style="margin-top:60px" width="170">
-		</Col>
-		<Col span="4" class="vertical">
-			<img src="../assets/hitbj.png" width="170">
-		</Col>
-		<Col span="4" class="vertical">
-			<img src="../assets/公安部一所.jpg" style="margin-top:30px">
-		</Col>
-	</Row>
-
 	</div>
 </template>
 

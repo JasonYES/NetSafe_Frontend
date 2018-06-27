@@ -97,7 +97,7 @@
 </template>
 
 <script>
-    import Avatar from 'vue-avatar/dist/Avatar'
+    import Avatar from 'vue-avatar'
     export default {
         data () {
             return {

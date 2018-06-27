@@ -81,7 +81,7 @@
 </template>
 
 <script>
-    import Avatar from 'vue-avatar/dist/Avatar'
+    import Avatar from 'vue-avatar'
     import VueMarkdown from 'vue-markdown'
     export default {
         data () {

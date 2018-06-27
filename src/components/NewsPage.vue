@@ -103,7 +103,7 @@
   </div>
 </template>
 <script>
-import Avatar from 'vue-avatar/dist/Avatar'
+import Avatar from 'vue-avatar'
 import InfiniteLoading from 'vue-infinite-loading'
 export default {
   data() {
